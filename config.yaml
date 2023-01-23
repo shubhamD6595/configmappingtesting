@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: configviagit11
+  name: configviagit112
  
 data:
   # property-like keys; each key maps to a simple value
