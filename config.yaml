@@ -2,6 +2,7 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: configviagit112
+  namespace: poc-dev
  
 data:
   # property-like keys; each key maps to a simple value
