@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: configmap-01
+  name: cm-git
   namespace: dev
  
 data:
